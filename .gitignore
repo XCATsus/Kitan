@@ -1,0 +1,17 @@
+# virtualenvs
+.venv/
+venv/
+ENV/
+# Python cache
+__pycache__/
+*.pyc
+# dotenv
+.env
+# app data
+data/
+# logs and OS junk
+*.log
+.DS_Store
+# Generated data
+bot_config.json
+user_xp.json
